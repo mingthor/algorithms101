@@ -49,6 +49,7 @@
 * LC buy sell stocks
 * KMP
   * [LC 28 Implement strstr()](https://leetcode.com/problems/implement-strstr/#/description)
+  * [LC 214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/#/description)
     
 # Resources
 [Google phone interviews](https://github.com/jeromejj/GooglePhoneScreenBible/blob/master/GooglePhoneScreenBible.md)
