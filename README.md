@@ -1,7 +1,7 @@
 # Algorithms 101
 
 # 面经
-[Google phone interviews](https://github.com/jeromejj/GooglePhoneScreenBible/blob/master/GooglePhoneScreenBible.md)
+## Algorithm Inteview Questions
 * [LC 401 Binary Watch](https://leetcode.com/problems/binary-watch/#/description)
 * [LC 204 Count Primes](https://leetcode.com/problems/count-primes/#/description)
 * Binary Index Trees and Segment Trees
@@ -47,8 +47,11 @@
 * [LC 394. Decode String](https://leetcode.com/problems/decode-string/#/description)
 * LC 471 Encode String with shortest length, Given a non-empty string, encode the string such that its encoded length is the shortest. The encoding rule is: k[encoded_string], where the encoded_string inside the square brackets is being repeated exactly k times.
 * LC buy sell stocks
+* KMP
+  * [LC 28 Implement strstr()](https://leetcode.com/problems/implement-strstr/#/description)
     
 # Resources
+[Google phone interviews](https://github.com/jeromejj/GooglePhoneScreenBible/blob/master/GooglePhoneScreenBible.md)
 
 [Hackererth Algorithms](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/tutorial/)
 
