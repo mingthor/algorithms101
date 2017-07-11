@@ -34,6 +34,11 @@
       double next(int val) {}
   };
   ```
+* Given a dictionary d and a misspelled word w, return all corrections for word w. A misspelled word has only one character different than its correction with same length. 
+  ```C++
+  vector<string> findCorrections(vector<string> dict, string w) {}
+  ```
+* LC 161 One Edit Distance, Given two strings S and T, determine if they are both one edit distance apart.
     
 # Resources
 
