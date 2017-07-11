@@ -50,6 +50,25 @@
 * KMP
   * [LC 28 Implement strstr()](https://leetcode.com/problems/implement-strstr/#/description)
   * [LC 214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/#/description)
+* Line Sweep:
+  * 56 merge interval× 3 变形 ,问一共可以覆盖的区间和,follow up:二维interval。
+  * 57 insert interval
+  * given k sorted array has n posts, find the shortest interval contains at least 1 post from each array ?
+  * 给一个区间的2d array,每一row表示一个接受方,给一个整数,求所有包含这个整数的接
+受方
+  * 253 meeting room II,252 meting room,detect if 2 range overlaps
+  * 554 Brick wall,follow up,墙很扁,高度小长度宽,怎么优化?
+* Math:
+  * 273 integer to English, variation 加逗号和and × 7
+  * 67 Add binary, follow up: 支持不同的base × 6,
+  * 415 Add Strings
+  * 311 Sparse Matrix Multiplication × 3
+  * 给无重复prime number数组,返回相乘的结果集无重复 × 2
+  * basic calculator I II,224, 227
+  * 50 pow (x, n)
+  * 29 divide 2 integer,follow up,求余数 * 2
+  * 12,13,roman <---> int
+  * fibonacci数列%10,找规律
     
 # Resources
 [Google phone interviews](https://github.com/jeromejj/GooglePhoneScreenBible/blob/master/GooglePhoneScreenBible.md)
