@@ -38,7 +38,15 @@
   ```C++
   vector<string> findCorrections(vector<string> dict, string w) {}
   ```
+* [LC 72 Edit Distance](https://leetcode.com/problems/edit-distance/#/description)
 * LC 161 One Edit Distance, Given two strings S and T, determine if they are both one edit distance apart.
+* Given an array of unsorted numbers, find whether it can be equally divided into groups of 5 contigous integers. For example, {1,2,3} return false, {1,2,3,4,5,2,3,4,5,6} return true;
+  ```C++
+  bool divideFiveContigous(vector<int> nums) {}
+  ```
+* [LC 394. Decode String](https://leetcode.com/problems/decode-string/#/description)
+* LC 471 Encode String with shortest length, Given a non-empty string, encode the string such that its encoded length is the shortest. The encoding rule is: k[encoded_string], where the encoded_string inside the square brackets is being repeated exactly k times.
+* LC buy sell stocks
     
 # Resources
 
