@@ -7,6 +7,7 @@
 * Binary Index Trees and Segment Trees
   * [LC 303 Range Sum Query-Immutable](https://leetcode.com/problems/range-sum-query-immutable/#/description)
   * [LC 307 Range Sum Query](https://leetcode.com/problems/range-sum-query-mutable/#/description)
+  * [LC 315 Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/#/description)
 * [LC 218 Skyline Problem](https://leetcode.com/problems/the-skyline-problem/#/description)
 * Graph
   * Given a list of nodes with id and parent_id, find direct child nodes and find all descendents of a node. Note about cycles in graph.
