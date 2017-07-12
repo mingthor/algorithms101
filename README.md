@@ -50,7 +50,31 @@
 * LC 471 Encode String with shortest length, Given a non-empty string, encode the string such that its encoded length is the shortest. The encoding rule is: k[encoded_string], where the encoded_string inside the square brackets is being repeated exactly k times.
 * LC buy sell stocks
 * [LC 15 3Sum](https://leetcode.com/problems/3sum/#/description)
+* [LC 16 3Sum Closest](https://leetcode.com/problems/3sum-closest/#/description)
 * Given a sorted array of integers. Return their square in sorted order.
+* LC 346 Moving Average from Data Stream
+* [415 Add Strings](https://leetcode.com/problems/add-strings/#/description) Follow up: how to parallelize it?
+Post: 第一题 实际上你的并行策略并没起作用。如果有carry in 你的MSB得重新算。等于说整个MSB的计算都depend on LSB的计算的结果。 我觉得应该用个类似carry selection adder的方法。 suppose你分2个进程， 你的MSB要计算有carry in的， 也要计算没有carry in的 最后根据是有还是没有把预测错误的那个结果抛弃就行。 补充内容 (2016-3-15 13:43): suppose 你把整个数字断分成MSB和LSB。 你需要3＊个进程
+链接: https://instant.1point3acres.com/thread/165509 来源: 一亩三分地
+* Given two integers a and b, swap the digits in a to make the result greater than b. Follow up: return the smallest.
+* 设计查询系统(最大值，最小值，最新加入值)
+```C++
+class System { 
+	int getMax(); 
+	int getMin(); 
+	int getRecent(); 
+	void add(long time, int price);
+	void update(long time, int price); 
+	void remove(long time); 
+} 
+```
+例子如下
+add(1,4) max:4, min:4, recent:4
+add(4,7) max:7, min:4, recent:7 
+add(2,5) max:7, min:4, recent:7
+etc.. 
+* Tree
+  * [LC 104 Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/#/description)
 * KMP
   * [LC 28 Implement strstr()](https://leetcode.com/problems/implement-strstr/#/description)
   * [LC 214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/#/description)
