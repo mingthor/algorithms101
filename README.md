@@ -49,6 +49,7 @@
 * [LC 394. Decode String](https://leetcode.com/problems/decode-string/#/description)
 * LC 471 Encode String with shortest length, Given a non-empty string, encode the string such that its encoded length is the shortest. The encoding rule is: k[encoded_string], where the encoded_string inside the square brackets is being repeated exactly k times.
 * LC buy sell stocks
+* [LC 15 3Sum](https://leetcode.com/problems/3sum/#/description)
 * KMP
   * [LC 28 Implement strstr()](https://leetcode.com/problems/implement-strstr/#/description)
   * [LC 214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/#/description)
