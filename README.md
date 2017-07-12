@@ -8,7 +8,8 @@
   * [LC 303 Range Sum Query-Immutable](https://leetcode.com/problems/range-sum-query-immutable/#/description)
   * [LC 307 Range Sum Query](https://leetcode.com/problems/range-sum-query-mutable/#/description)
   * [LC 315 Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/#/description)
-* [LC 218 Skyline Problem](https://leetcode.com/problems/the-skyline-problem/#/description)
+  * [LC 218 Skyline Problem](https://leetcode.com/problems/the-skyline-problem/#/description)
+  * [LC 493 Reverse Pairs](https://leetcode.com/problems/reverse-pairs/#/description)
 * Graph
   * Given a list of nodes with id and parent_id, find direct child nodes and find all descendents of a node. Note about cycles in graph.
     ```C++
@@ -52,8 +53,8 @@
   * [LC 28 Implement strstr()](https://leetcode.com/problems/implement-strstr/#/description)
   * [LC 214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/#/description)
 * Line Sweep:
-  * 56 merge interval× 3 变形 ,问一共可以覆盖的区间和,follow up:二维interval。
-  * 57 insert interval
+  * [56 Merge Intervals](https://leetcode.com/problems/merge-intervals/#/description). Follow up: 2D intervals。
+  * [57 Insert Interval](https://leetcode.com/problems/insert-interval/#/description)
   * given k sorted array has n posts, find the shortest interval contains at least 1 post from each array ?
   * 给一个区间的2d array,每一row表示一个接受方,给一个整数,求所有包含这个整数的接
 受方
