@@ -8,7 +8,6 @@
   * [LC 303 Range Sum Query-Immutable](https://leetcode.com/problems/range-sum-query-immutable/#/description)
   * [LC 307 Range Sum Query](https://leetcode.com/problems/range-sum-query-mutable/#/description)
   * [LC 315 Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/#/description)
-  * [LC 218 Skyline Problem](https://leetcode.com/problems/the-skyline-problem/#/description)
   * [LC 493 Reverse Pairs](https://leetcode.com/problems/reverse-pairs/#/description)
 * Graph
   * Given a list of nodes with id and parent_id, find direct child nodes and find all descendents of a node. Note about cycles in graph.
@@ -54,8 +53,6 @@
 * Given a sorted array of integers. Return their square in sorted order.
 * LC 346 Moving Average from Data Stream
 * [415 Add Strings](https://leetcode.com/problems/add-strings/#/description) Follow up: how to parallelize it?
-Post: 第一题 实际上你的并行策略并没起作用。如果有carry in 你的MSB得重新算。等于说整个MSB的计算都depend on LSB的计算的结果。 我觉得应该用个类似carry selection adder的方法。 suppose你分2个进程， 你的MSB要计算有carry in的， 也要计算没有carry in的 最后根据是有还是没有把预测错误的那个结果抛弃就行。 补充内容 (2016-3-15 13:43): suppose 你把整个数字断分成MSB和LSB。 你需要3＊个进程
-链接: https://instant.1point3acres.com/thread/165509 来源: 一亩三分地
 * Given two integers a and b, swap the digits in a to make the result greater than b. Follow up: return the smallest.
 * 设计查询系统(最大值，最小值，最新加入值)
 	```C++
@@ -79,6 +76,7 @@ Post: 第一题 实际上你的并行策略并没起作用。如果有carry in �
   * [LC 28 Implement strstr()](https://leetcode.com/problems/implement-strstr/#/description)
   * [LC 214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/#/description)
 * Line Sweep:
+  * [LC 218 Skyline Problem](https://leetcode.com/problems/the-skyline-problem/#/description)
   * [56 Merge Intervals](https://leetcode.com/problems/merge-intervals/#/description). Follow up: 2D intervals。
   * [57 Insert Interval](https://leetcode.com/problems/insert-interval/#/description)
   * given k sorted array has n posts, find the shortest interval contains at least 1 post from each array ?
