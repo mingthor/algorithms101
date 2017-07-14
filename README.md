@@ -23,6 +23,11 @@
 * [LC 621 Task Scheduler](https://leetcode.com/problems/task-scheduler/#/description)
 * [LC 452 Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/#/description)
 
+## Graph
+* [Representation]()
+* [Searching](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-2/)
+* [Finding the Best Path](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-3/)
+
 ## Algorithm Inteview Questions
 * [LC 401 Binary Watch](https://leetcode.com/problems/binary-watch/#/description)
 * [LC 204 Count Primes](https://leetcode.com/problems/count-primes/#/description)
