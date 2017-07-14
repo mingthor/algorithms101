@@ -4,15 +4,20 @@
 * [128 Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/#/description)
 
 ## [Binary Indexed Trees](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/)
-  * [LC 303 Range Sum Query-Immutable](https://leetcode.com/problems/range-sum-query-immutable/#/description)
-  * [LC 307 Range Sum Query](https://leetcode.com/problems/range-sum-query-mutable/#/description)
-  * [LC 315 Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/#/description)
-  * [LC 493 Reverse Pairs](https://leetcode.com/problems/reverse-pairs/#/description)
+* [LC 303 Range Sum Query-Immutable](https://leetcode.com/problems/range-sum-query-immutable/#/description)
+* [LC 307 Range Sum Query](https://leetcode.com/problems/range-sum-query-mutable/#/description)
+* [LC 315 Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/#/description)
+* [LC 493 Reverse Pairs](https://leetcode.com/problems/reverse-pairs/#/description)
   
 ## [KMP String Searching](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-string-searching-algorithms/)
-  * [LC 28 Implement strstr()](https://leetcode.com/problems/implement-strstr/#/description)
-  * [LC 214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/#/description)
+* [LC 28 Implement strstr()](https://leetcode.com/problems/implement-strstr/#/description)
+* [LC 214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/#/description)
   
+## [Trie](https://www.topcoder.com/community/data-science/data-science-tutorials/using-tries/)
+* [LC 208 Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/#/description)
+* [LC 211 Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/#/description)
+* [LC 336 Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/#/description)
+
 ## Algorithm Inteview Questions
 * [LC 401 Binary Watch](https://leetcode.com/problems/binary-watch/#/description)
 * [LC 204 Count Primes](https://leetcode.com/problems/count-primes/#/description)
