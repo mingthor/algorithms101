@@ -36,6 +36,8 @@
 * [56 Merge Intervals](https://leetcode.com/problems/merge-intervals/#/description). Follow up: 2D intervals。
 * [57 Insert Interval](https://leetcode.com/problems/insert-interval/#/description)
 
+## [Prime Numbers & Factorization](https://www.topcoder.com/community/data-science/data-science-tutorials/prime-numbers-factorization-and-euler-function/)
+
 ## Algorithm Inteview Questions
 * [LC 401 Binary Watch](https://leetcode.com/problems/binary-watch/#/description)
 * [LC 204 Count Primes](https://leetcode.com/problems/count-primes/#/description)
