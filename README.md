@@ -1,14 +1,18 @@
 # Algorithms 101
+## [Disjoint Set / Union Find](https://www.topcoder.com/community/data-science/data-science-tutorials/disjoint-set-data-structures/)
+* [LC 547 Friend Circles](https://leetcode.com/problems/friend-circles/#/description)
+* [128 Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/#/description)
 
-# 面经
-## Algorithm Inteview Questions
-* [LC 401 Binary Watch](https://leetcode.com/problems/binary-watch/#/description)
-* [LC 204 Count Primes](https://leetcode.com/problems/count-primes/#/description)
-* Binary Index Trees and Segment Trees
+## [Binary Indexed Trees](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/)
   * [LC 303 Range Sum Query-Immutable](https://leetcode.com/problems/range-sum-query-immutable/#/description)
   * [LC 307 Range Sum Query](https://leetcode.com/problems/range-sum-query-mutable/#/description)
   * [LC 315 Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/#/description)
   * [LC 493 Reverse Pairs](https://leetcode.com/problems/reverse-pairs/#/description)
+  
+## Algorithm Inteview Questions
+* [LC 401 Binary Watch](https://leetcode.com/problems/binary-watch/#/description)
+* [LC 204 Count Primes](https://leetcode.com/problems/count-primes/#/description)
+
 * Graph
   * Given a list of nodes with id and parent_id, find direct child nodes and find all descendents of a node. Note about cycles in graph.
     ```C++
