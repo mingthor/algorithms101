@@ -18,6 +18,11 @@
 * [LC 211 Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/#/description)
 * [LC 336 Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/#/description)
 
+## [Greedy](https://www.topcoder.com/community/data-science/data-science-tutorials/greedy-is-good/)
+* [LC 630 Course Schedule II](https://leetcode.com/problems/course-schedule-iii/#/description)
+* [LC 621 Task Scheduler](https://leetcode.com/problems/task-scheduler/#/description)
+* [LC 452 Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/#/description)
+
 ## Algorithm Inteview Questions
 * [LC 401 Binary Watch](https://leetcode.com/problems/binary-watch/#/description)
 * [LC 204 Count Primes](https://leetcode.com/problems/count-primes/#/description)
