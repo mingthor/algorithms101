@@ -31,6 +31,11 @@
 ## [Dynamic Programming](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
 * [LC 639 Decode Ways II](https://leetcode.com/problems/decode-ways-ii/#/description)
 
+## [Line Sweep Algorithms](https://www.topcoder.com/community/data-science/data-science-tutorials/line-sweep-algorithms/)
+* [LC 218 Skyline Problem](https://leetcode.com/problems/the-skyline-problem/#/description)
+* [56 Merge Intervals](https://leetcode.com/problems/merge-intervals/#/description). Follow up: 2D intervals。
+* [57 Insert Interval](https://leetcode.com/problems/insert-interval/#/description)
+
 ## Algorithm Inteview Questions
 * [LC 401 Binary Watch](https://leetcode.com/problems/binary-watch/#/description)
 * [LC 204 Count Primes](https://leetcode.com/problems/count-primes/#/description)
@@ -99,9 +104,7 @@
 * Tree
   * [LC 104 Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/#/description)
 * Line Sweep:
-  * [LC 218 Skyline Problem](https://leetcode.com/problems/the-skyline-problem/#/description)
-  * [56 Merge Intervals](https://leetcode.com/problems/merge-intervals/#/description). Follow up: 2D intervals。
-  * [57 Insert Interval](https://leetcode.com/problems/insert-interval/#/description)
+
   * given k sorted array has n posts, find the shortest interval contains at least 1 post from each array ?
   * 给一个区间的2d array,每一row表示一个接受方,给一个整数,求所有包含这个整数的接
 受方
