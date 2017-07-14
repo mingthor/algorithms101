@@ -9,6 +9,10 @@
   * [LC 315 Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/#/description)
   * [LC 493 Reverse Pairs](https://leetcode.com/problems/reverse-pairs/#/description)
   
+## [KMP String Searching](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-string-searching-algorithms/)
+  * [LC 28 Implement strstr()](https://leetcode.com/problems/implement-strstr/#/description)
+  * [LC 214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/#/description)
+  
 ## Algorithm Inteview Questions
 * [LC 401 Binary Watch](https://leetcode.com/problems/binary-watch/#/description)
 * [LC 204 Count Primes](https://leetcode.com/problems/count-primes/#/description)
@@ -76,9 +80,6 @@
 	etc.. 
 * Tree
   * [LC 104 Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/#/description)
-* KMP
-  * [LC 28 Implement strstr()](https://leetcode.com/problems/implement-strstr/#/description)
-  * [LC 214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/#/description)
 * Line Sweep:
   * [LC 218 Skyline Problem](https://leetcode.com/problems/the-skyline-problem/#/description)
   * [56 Merge Intervals](https://leetcode.com/problems/merge-intervals/#/description). Follow up: 2D intervals。
