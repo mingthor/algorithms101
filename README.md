@@ -38,14 +38,18 @@
 
 ## [Prime Numbers & Factorization](https://www.topcoder.com/community/data-science/data-science-tutorials/prime-numbers-factorization-and-euler-function/)
 
-## [Binary Search]()
+## [Binary Search](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/)
 * [LC 33 Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/#/description)
 * [LC 69 Sqrt(x)](https://leetcode.com/problems/sqrtx/#/description)
+* [LC 50 Pow(x, n)](https://leetcode.com/problems/powx-n/#/description)
+
+## Backtracking
+
+## Bit Manipulation
 
 ## Algorithm Inteview Questions
 * [LC 401 Binary Watch](https://leetcode.com/problems/binary-watch/#/description)
 * [LC 204 Count Primes](https://leetcode.com/problems/count-primes/#/description)
-* [LC 50 Pow(x, n)](https://leetcode.com/problems/powx-n/#/description)
 
 * Graph
   * Given a list of nodes with id and parent_id, find direct child nodes and find all descendents of a node. Note about cycles in graph.
