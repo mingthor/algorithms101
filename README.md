@@ -28,6 +28,9 @@
 * [Searching](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-2/)
 * [Finding the Best Path](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-3/)
 
+## [Dynamic Programming](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
+* [LC 639 Decode Ways II](https://leetcode.com/problems/decode-ways-ii/#/description)
+
 ## Algorithm Inteview Questions
 * [LC 401 Binary Watch](https://leetcode.com/problems/binary-watch/#/description)
 * [LC 204 Count Primes](https://leetcode.com/problems/count-primes/#/description)
