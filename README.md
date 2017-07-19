@@ -3,6 +3,9 @@
 * [LC 547 Friend Circles](https://leetcode.com/problems/friend-circles/#/description)
 * [128 Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/#/description)
 
+## [Segment Trees](https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/)
+* [LC 327 Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/#/description)
+
 ## [Binary Indexed Trees](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/)
 * [LC 303 Range Sum Query-Immutable](https://leetcode.com/problems/range-sum-query-immutable/#/description)
 * [LC 307 Range Sum Query](https://leetcode.com/problems/range-sum-query-mutable/#/description)
