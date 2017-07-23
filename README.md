@@ -1,18 +1,28 @@
 # Algorithms 101
+
+## Arrays
+* [LC 645 Set Mismatch](https://leetcode.com/contest/leetcode-weekly-contest-42/problems/set-mismatch/)
+
+## Sorting
+
 ## [Disjoint Set / Union Find](https://www.topcoder.com/community/data-science/data-science-tutorials/disjoint-set-data-structures/)
 * [LC 547 Friend Circles](https://leetcode.com/problems/friend-circles/#/description)
 * [128 Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/#/description)
 
-## [Segment Trees](https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/)
-* [LC 327 Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/#/description)
+## Intervals
+* [LC 646 Maximum Length of Pair Chain](https://leetcode.com/contest/leetcode-weekly-contest-42/problems/maximum-length-of-pair-chain/)
 
-## [Binary Indexed Trees](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/)
+### [Segment Trees](https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/)
+### [Binary Indexed Trees](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/)
 * [LC 303 Range Sum Query-Immutable](https://leetcode.com/problems/range-sum-query-immutable/#/description)
 * [LC 307 Range Sum Query](https://leetcode.com/problems/range-sum-query-mutable/#/description)
 * [LC 315 Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/#/description)
 * [LC 493 Reverse Pairs](https://leetcode.com/problems/reverse-pairs/#/description)
+* [LC 327 Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/#/description)
   
-## [KMP String Searching](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-string-searching-algorithms/)
+## Strings
+* [LC Palindromic Substrings](https://leetcode.com/contest/leetcode-weekly-contest-42/problems/palindromic-substrings/)
+### [KMP String Searching](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-string-searching-algorithms/)
 * [LC 28 Implement strstr()](https://leetcode.com/problems/implement-strstr/#/description)
 * [LC 214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/#/description)
   
@@ -20,6 +30,7 @@
 * [LC 208 Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/#/description)
 * [LC 211 Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/#/description)
 * [LC 336 Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/#/description)
+* [LC 648 Replace Words](https://leetcode.com/contest/leetcode-weekly-contest-42/problems/replace-words/)
 
 ## [Greedy](https://www.topcoder.com/community/data-science/data-science-tutorials/greedy-is-good/)
 * [LC 630 Course Schedule II](https://leetcode.com/problems/course-schedule-iii/#/description)
