@@ -50,6 +50,9 @@
 
 ## Bit Manipulation
 
+## Matrix
+* [LC 498 Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/#/description)
+
 ## Algorithm Inteview Questions
 * [LC 401 Binary Watch](https://leetcode.com/problems/binary-watch/#/description)
 * [LC 204 Count Primes](https://leetcode.com/problems/count-primes/#/description)
