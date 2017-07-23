@@ -40,7 +40,7 @@
 * [57 Insert Interval](https://leetcode.com/problems/insert-interval/#/description)
 
 ## [Prime Numbers & Factorization](https://www.topcoder.com/community/data-science/data-science-tutorials/prime-numbers-factorization-and-euler-function/)
-* [LC 507](https://leetcode.com/problems/perfect-number/#/description)
+* [LC 507 Perfect Number](https://leetcode.com/problems/perfect-number/#/description)
 
 ## [Binary Search](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/)
 * [LC 33 Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/#/description)
