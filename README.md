@@ -3,6 +3,10 @@
 ## Arrays
 * [LC 645 Set Mismatch](https://leetcode.com/contest/leetcode-weekly-contest-42/problems/set-mismatch/)
 
+## Stacks and Queues
+### Monotone Priority Queue
+* [LC 239 Sliding Window Maximum ](https://leetcode.com/problems/sliding-window-maximum/description/)
+
 ## Sorting
 
 ## [Disjoint Set / Union Find](https://www.topcoder.com/community/data-science/data-science-tutorials/disjoint-set-data-structures/)
