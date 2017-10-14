@@ -1,6 +1,12 @@
 {
     "files.associations": {
         "*.tcc": "cpp",
-        "array": "cpp"
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "valarray": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "sstream": "cpp",
+        "ostream": "cpp"
     }
 }
