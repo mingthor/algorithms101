@@ -69,6 +69,7 @@
 
 ## Matrix
 * [LC 498 Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/#/description)
+* [LC 378 Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)
 
 ## Algorithm Inteview Questions
 * [LC 401 Binary Watch](https://leetcode.com/problems/binary-watch/#/description)
