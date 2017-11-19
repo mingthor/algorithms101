@@ -7,6 +7,9 @@
 ### Monotone Priority Queue
 * [LC 239 Sliding Window Maximum ](https://leetcode.com/problems/sliding-window-maximum/description/)
 
+## Trees
+* [LC 104 Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/#/description)
+
 ## Sorting
 
 ## [Disjoint Set / Union Find](https://www.topcoder.com/community/data-science/data-science-tutorials/disjoint-set-data-structures/)
@@ -69,48 +72,13 @@
 
 ## Matrix
 * [LC 498 Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/#/description)
-* [LC 378 Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)
+* LC 311 Sparse Matrix Multiplication
 
 ## Algorithm Inteview Questions
 * [LC 401 Binary Watch](https://leetcode.com/problems/binary-watch/#/description)
 * [LC 204 Count Primes](https://leetcode.com/problems/count-primes/#/description)
-
-* Graph
-  * Given a list of nodes with id and parent_id, find direct child nodes and find all descendents of a node. Note about cycles in graph.
-    ```C++
-    struct node {
-      int value;
-      node* parent;
-    }
-    vector<node*> getChildren(node* n) {}
-    vector<node*> getDescendents(node* n) {}
-    ```
-* LC 346 Moving Average from Data Stream, Given a stream of integers and a window size, calculate the moving average of all integers in the sliding window. Follow up, multithreading?
-  For example,
-  ```java
-  MovingAverage m = new MovingAverage(3);
-  m.next(1) = 1
-  m.next(10) = (1 + 10) / 2
-  m.next(3) = (1 + 10 + 3) / 3
-  m.next(5) = (10 + 3 + 5) / 3
-  ```
-  ```C++
-  class MovingAverage {
-  public:
-      MovingAverage(int size) {}
-      double next(int val) {}
-  };
-  ```
-* Given a dictionary d and a misspelled word w, return all corrections for word w. A misspelled word has only one character different than its correction with same length. 
-  ```C++
-  vector<string> findCorrections(vector<string> dict, string w) {}
-  ```
 * [LC 72 Edit Distance](https://leetcode.com/problems/edit-distance/#/description)
 * LC 161 One Edit Distance, Given two strings S and T, determine if they are both one edit distance apart.
-* Given an array of unsorted numbers, find whether it can be equally divided into groups of 5 contigous integers. For example, {1,2,3} return false, {1,2,3,4,5,2,3,4,5,6} return true;
-  ```C++
-  bool divideFiveContigous(vector<int> nums) {}
-  ```
 * [LC 394. Decode String](https://leetcode.com/problems/decode-string/#/description)
 * LC 471 Encode String with shortest length, Given a non-empty string, encode the string such that its encoded length is the shortest. The encoding rule is: k[encoded_string], where the encoded_string inside the square brackets is being repeated exactly k times.
 * LC buy sell stocks
@@ -119,37 +87,15 @@
 * Given a sorted array of integers. Return their square in sorted order.
 * LC 346 Moving Average from Data Stream
 * [415 Add Strings](https://leetcode.com/problems/add-strings/#/description) Follow up: how to parallelize it?
-* Given two integers a and b, swap the digits in a to make the result greater than b. Follow up: return the smallest.
-* 设计查询系统(最大值，最小值，最新加入值)
-	```C++
-	class System { 
-		int getMax(); 
-		int getMin(); 
-		int getRecent(); 
-		void add(long time, int price);
-		void update(long time, int price); 
-		void remove(long time); 
-	} 
-	```
-	例子如下
-	add(1,4) max:4, min:4, recent:4
-	add(4,7) max:7, min:4, recent:7 
-	add(2,5) max:7, min:4, recent:7
-	etc.. 
-* Tree
-  * [LC 104 Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/#/description)
-* Line Sweep:
 
   * given k sorted array has n posts, find the shortest interval contains at least 1 post from each array ?
-  * 给一个区间的2d array,每一row表示一个接受方,给一个整数,求所有包含这个整数的接
-受方
   * 253 meeting room II,252 meting room,detect if 2 range overlaps
   * 554 Brick wall,follow up,墙很扁,高度小长度宽,怎么优化?
 * Math:
   * 273 integer to English, variation 加逗号和and × 7
   * 67 Add binary, follow up: 支持不同的base × 6,
   * 415 Add Strings
-  * 311 Sparse Matrix Multiplication × 3
+ 
   * 给无重复prime number数组,返回相乘的结果集无重复 × 2
   * basic calculator I II,224, 227
   * 50 pow (x, n)

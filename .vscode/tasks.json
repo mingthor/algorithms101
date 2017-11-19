@@ -5,7 +5,7 @@
     "tasks": [
         {
             "taskName": "build",
-            "command": "g++ -g -std=c++11 ${file}",
+            "command": "g++ -g -std=c++11 ${file} -lpthread",
             "type": "shell",
             "problemMatcher": [
                 "$gcc"
