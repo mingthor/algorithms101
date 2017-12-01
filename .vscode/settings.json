@@ -9,6 +9,8 @@
         "sstream": "cpp",
         "ostream": "cpp",
         "tuple": "cpp",
-        "thread": "cpp"
+        "thread": "cpp",
+        "bitset": "cpp",
+        "utility": "cpp"
     }
 }

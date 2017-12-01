@@ -1,6 +1,7 @@
 #include "testharness.h"
 #include "prettyprint.h"
 #include <bits/stdc++.h>
+#include <thread>
 using namespace std;
 
 /**
@@ -16,12 +17,12 @@ struct TreeNode {
 class BinaryTree {
 public:
     // Encodes a tree to a single string.
-    string serialize(TreeNode* root) {
+    static string serialize(TreeNode* root) {
         ostringstream ss;
         serialize(root, ss);
         return ss.str();
     }
-    void serialize(TreeNode* root, ostringstream& ss) {
+    static void serialize(TreeNode* root, ostringstream& ss) {
         if (!root) ss << "# ";
         else {
             ss << root->val << ' ';
@@ -31,12 +32,12 @@ public:
     }
 
     // Decodes your encoded data to tree.
-    TreeNode* deserialize(string data) {
+    static TreeNode* deserialize(string data) {
         istringstream ss(data);
         return deserialize(ss);
     }
     
-    TreeNode* deserialize(istringstream& ss) {
+    static TreeNode* deserialize(istringstream& ss) {
         string s;
         ss >> s;
         if (s == "#") return 0;
